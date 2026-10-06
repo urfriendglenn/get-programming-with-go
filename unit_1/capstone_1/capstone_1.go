@@ -13,7 +13,7 @@ var speed = rand.Intn(15) + 16
 var days = (62100000 / speed) / 86400
 
 func main() {
-	//TODO: Create price logic, apply formatting, and loop 10 times
+
 	fmt.Println(airline)
 	fmt.Println(tripType)
 	fmt.Println(days)
